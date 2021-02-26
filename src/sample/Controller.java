@@ -31,7 +31,7 @@ public class Controller extends Application {
 
 
     public void buttonClickConnect(ActionEvent event) {
-
+        System.out.println("Git Text");
     }
 }
 
